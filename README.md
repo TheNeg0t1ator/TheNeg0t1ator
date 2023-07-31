@@ -11,7 +11,7 @@ Hey, I'm Kobe Dieryck, currently studying electronic engineering at PXL Digital.
 
 - Eagle and Altium for circuit design
 - Inventor and Fusion360 for parametric modeling
-- Xilinx vivado for digital logic design
+- Xilinx Vivado for digital logic design
 - Wireshark and packet sender for network analysis and troubleshooting
 
 I'm a creative problem solver who enjoys taking on new challenges and collaborating with teams to achieve project goals. My experience in electronic engineering has taught me the value of attention to detail, perseverance, and critical thinking, which I apply to all aspects of my work.
