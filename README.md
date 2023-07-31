@@ -10,7 +10,7 @@ Hey, I'm Kobe Dieryck, currently studying electronic engineering at PXL Digital.
 ### Tools I use:
 
 - Eagle and Altium for circuit design
-- Cura and Fusion360 for parametric modeling
+- Inventor and Fusion360 for parametric modeling
 - FPGA for digital logic design
 - Wireshark and packet sender for network analysis and troubleshooting
 
