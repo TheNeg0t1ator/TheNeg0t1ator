@@ -9,7 +9,7 @@ Hey, I'm Kobe Dieryck, currently studying electronic engineering at PXL Digital.
 
 ### Tools I use:
 
-- Eagle and Altium for circuit design
+- Altium for circuit design
 - Inventor and Fusion360 for parametric modeling
 - Xilinx Vivado for digital logic design
 - Wireshark and packet sender for network analysis and troubleshooting
