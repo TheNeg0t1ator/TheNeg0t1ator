@@ -4,7 +4,7 @@ Hey, I'm Kobe Dieryck, currently studying electronic engineering at PXL Digital.
 ### Languages I speak:
 
 - C, C++, Rust, Python and VHDL
-- HTML, CSS
+- HTML, CSS, PHP
 - Ajax, SQL, and JavaScript
 
 ### Tools I use:
