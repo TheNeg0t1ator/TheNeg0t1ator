@@ -7,17 +7,20 @@ Hey, I'm Kobe Dieryck, currently studying electronic engineering at PXL Digital.
 - Fullstack
 - Ajax, SQL, and JavaScript
 - Bash, structured text
+- Markdown for documentation, along with LaTeX
 
 ### Tools I use:
 
-- Altium for circuit design
+- Altium and KiCAD for circuit design
 - Inventor and Fusion360 for parametric modeling
-- Xilinx Vivado for digital logic design
+- Xilinx Vivado and Vitis for digital logic design
 - Wireshark and packet sender for network analysis and troubleshooting
+- Typora and obsidian for markdown
 
 I'm a creative problem solver who enjoys taking on new challenges and collaborating with teams to achieve project goals. My experience in electronic engineering has taught me the value of attention to detail, perseverance, and critical thinking, which I apply to all aspects of my work.
 
 In my free time, I love exploring new technologies and staying up-to-date with the latest advancements in the field. I'm excited to continue growing my skills and making valuable contributions to the industry.
+you can find me at [my site ](https://iter8.be)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNeg0t1ator&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
