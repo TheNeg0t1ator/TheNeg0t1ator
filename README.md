@@ -19,6 +19,8 @@ I'm a creative problem solver who enjoys taking on new challenges and collaborat
 
 In my free time, I love exploring new technologies and staying up-to-date with the latest advancements in the field. I'm excited to continue growing my skills and making valuable contributions to the industry.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNeg0t1ator&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 - 🔭 I’m currently working on ...
