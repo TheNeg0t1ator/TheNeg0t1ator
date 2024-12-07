@@ -22,7 +22,7 @@ I'm a creative problem solver who enjoys taking on new challenges and collaborat
 In my free time, I love exploring new technologies and staying up-to-date with the latest advancements in the field. I'm excited to continue growing my skills and making valuable contributions to the industry.
 you can find me at [my site ](https://iter8.be)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNeg0t1ator&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNeg0t1ator&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNeg0t1ator&layout=compact&theme=tokyonight)
 
 <!--
 
