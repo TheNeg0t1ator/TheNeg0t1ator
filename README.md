@@ -1,5 +1,5 @@
 # Hi there! 👋
-Hey, I'm Kobe Dieryck, currently studying electronic engineering at PXL Digital. Here are some things you might find interesting:
+Hey, I'm Kobe Dieryck, currently persuing electronic engineering. Here are some things you might find interesting:
 
 ### Languages I speak:
 
